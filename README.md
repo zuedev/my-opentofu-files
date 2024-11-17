@@ -4,6 +4,8 @@
 
 This repository contains my personal [OpenTofu](https://opentofu.org/) configuration files.
 
+Most of this is transplanted from [my-terraform-files](https://gitlab.sovereign.zue.dev/zuedev/my-terraform-files) as I migrate to OpenTofu.
+
 ## Development
 
 ### Mirrors
